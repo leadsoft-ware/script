@@ -12,3 +12,4 @@
 <strong><a href="https://space.bilibili.com/151235443?">Bilibili Space</a></strong>
 <strong><a href="https://www.github.com/xiaokang00010">Github Space</a></strong>
 <strong><a href="https://xiaokang00010.github.io">Blog</a></strong>
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=82b401120ae697997f306fab6ba1d66ff7414b93b2e1e161b0047bf66de35d04"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="LeadScript交流群" title="LeadScript交流群"></a>
