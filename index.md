@@ -4,11 +4,11 @@
 
 ## 下载 Download
 
-<a href="/downloads/index.md">View download page.</a>
+<a href="/downloads/">View download page.</a>
   
 ## 关于 About
 
-</p><strong>(C) Powered by 小康00010</strong></p>
+<p><strong>(C) Powered by 小康00010</strong></p>
 <strong><a href="https://space.bilibili.com/151235443?">Bilibili Space</a></strong>
 <strong><a href="https://www.github.com/xiaokang00010">Github Space</a></strong>
 <strong><a href="https://xiaokang00010.github.io">Blog</a></strong>
