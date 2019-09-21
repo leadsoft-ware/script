@@ -1,7 +1,6 @@
-[Normal]
-Administrator=Azhouby123
-awa_the_fox=
-[Ban]
-awathefox=
-[VIP]
-XiaoKang00010
+[XiaoKang00010]
+Password=Azhouby123
+Status=VIP
+[awa_the_fox]
+Password=233333
+Status=Ban
